@@ -11,8 +11,7 @@ function App() {
     <>
       <div>
         <NavBar></NavBar>
-        <h1 className='text-xl font-mono text'>Hello from App.jsx</h1>
-        <p>Tailwind doesn't work. Help! :(</p>
+       <p>.</p>
       </div>
     </>
   )
